@@ -1,5 +1,6 @@
 import smtplib
 
+#created class which will send mail to client whether they are qualified for job.
 
 class SendEmail:
     __sender = 'yourmail@doamin'
