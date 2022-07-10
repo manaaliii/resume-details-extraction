@@ -1,7 +1,10 @@
 import PyPDF2
 import re
 
+#importing criteria file
 import criteria as cr
+
+#extract all details from pdf, and we match the skills with the criteria and also we extract email of client
 
 
 class Extractor:
